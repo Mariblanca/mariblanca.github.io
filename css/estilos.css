@@ -1,0 +1,71 @@
+h1 {
+    color: hotpink; 
+    font-family: Chalkduster;
+    font-size: 4em;
+    height: 60px;
+}
+
+h7 {
+    color: pink; 
+    font-family: Chalkduster;
+    font-size: 4em;
+}
+
+h2 {
+    color: #ffbb9c;
+    font-family: Bradley Hand;
+    font-size: 2em;
+}
+
+h3 {
+    color: lightpink;
+    font-family: Chalkduster;
+    font-size: 6em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    white-space: nowrap;
+}   
+
+h4 {
+    color: lightpink;
+    font-family: Chalkduster;
+    font-size: 4em;
+    position: fixed;
+    top: 10%; /* Ajusta este valor según sea necesario */
+    left: 50%;
+    transform: translate(-50%, -50%); /* Corregido para centrar vertical y horizontalmente */
+    text-align: center;
+    white-space: nowrap;
+    margin: 0;
+    z-index: 9999; 
+}
+
+h5 {
+    color: black;
+    font-family: Mistral;
+    font-size: 2em;
+}
+
+h6 {
+    color: lightgrey; 
+    font-family: Chalkduster;
+    font-size: 2em;
+    position: fixed;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;
+    height: 50vh;
+}
+p {
+    color: lightgrey; 
+    font-family: Chalkduster;
+    font-size: 2em;
+    position: fixed;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;
+    height: 70vh; /* Establece la altura del contenedor al 100% de la altura de la ventana */
+}
