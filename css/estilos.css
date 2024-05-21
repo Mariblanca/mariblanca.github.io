@@ -19,7 +19,7 @@ h2 {
 
 h3 {
     color: lightpink;
-    font-family: Chalkduster;
+    font-family: Bahnschrift;
     font-size: 6em;
     position: absolute;
     top: 50%;
@@ -31,7 +31,7 @@ h3 {
 
 h4 {
     color: lightpink;
-    font-family: Chalkduster;
+    font-family: Bahnschrift;
     font-size: 4em;
     position: fixed;
     top: 10%; /* Ajusta este valor según sea necesario */
@@ -45,13 +45,13 @@ h4 {
 
 h5 {
     color: black;
-    font-family: Mistral;
+    font-family: Alasassy Caps;
     font-size: 2em;
 }
 
 h6 {
     color: lightgrey; 
-    font-family: Chalkduster;
+    font-family: Bahnschrift;
     font-size: 2em;
     position: fixed;
     display: flex;
@@ -61,7 +61,7 @@ h6 {
 }
 p {
     color: lightgrey; 
-    font-family: Chalkduster;
+    font-family: Bahnschrift;
     font-size: 2em;
     position: fixed;
     display: flex;
