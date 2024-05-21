@@ -67,5 +67,6 @@ p {
     display: flex;
     justify-content: center; /* Centra horizontalmente */
     align-items: center;
+    padding-bottom: -10px
     height: 70vh; /* Establece la altura del contenedor al 100% de la altura de la ventana */
 }
