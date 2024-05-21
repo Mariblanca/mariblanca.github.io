@@ -34,9 +34,9 @@ h4 {
     font-family: Bahnschrift;
     font-size: 4em;
     position: fixed;
-    top: 10%; /* Ajusta este valor según sea necesario */
+    top: 10%;
     left: 50%;
-    transform: translate(-50%, -50%); /* Corregido para centrar vertical y horizontalmente */
+    transform: translate(-50%, -50%); 
     text-align: center;
     white-space: nowrap;
     margin: 0;
@@ -55,17 +55,17 @@ h6 {
     font-size: 2em;
     position: fixed;
     display: flex;
-    justify-content: center; /* Centra horizontalmente */
+    justify-content: center; 
     align-items: center;
     height: 50vh;
 }
 p {
     color: lightgrey; 
-    font-family: Bahnschrift;
+    font-family: Bahnsschrift;
     font-size: 2em;
     position: fixed;
     display: flex;
-    justify-content: center; /* Centra horizontalmente */
+    justify-content: center; 
     align-items: center;
-    height: 70vh; /* Establece la altura del contenedor al 100% de la altura de la ventana */
+    height: 70vh; 
 }
